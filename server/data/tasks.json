@@ -1,67 +1,17 @@
 [
   {
     "id": 1,
-    "title": "test2233",
-    "status": "todo"
+    "title": "test",
+    "status": "done"
   },
   {
     "id": 2,
     "title": "Fix login bug",
-    "status": "done"
+    "status": "in-progress"
   },
   {
     "id": 3,
-    "title": "Write API docs2",
-    "status": "done"
-  },
-  {
-    "title": "new",
-    "status": "todo",
-    "id": 4
-  },
-  {
-    "title": "new2",
-    "status": "todo",
-    "id": 5
-  },
-  {
-    "title": "extra",
-    "status": "todo",
-    "id": 6
-  },
-  {
-    "title": "new",
-    "status": "todo",
-    "id": 6
-  },
-  {
-    "title": "newId",
-    "status": "todo",
-    "id": 7
-  },
-  {
-    "title": "new23",
-    "status": "todo",
-    "id": 8
-  },
-  {
-    "title": "new45",
-    "status": "todo",
-    "id": 9
-  },
-  {
-    "title": "1234",
-    "status": "todo",
-    "id": 10
-  },
-  {
-    "title": "TASK_1: Title",
-    "status": "done",
-    "id": 11
-  },
-  {
-    "title": "cosi dalsiho",
-    "status": "todo",
-    "id": 12
+    "title": "Write API docs",
+    "status": "todo"
   }
 ]
